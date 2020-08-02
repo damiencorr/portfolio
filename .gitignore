@@ -127,3 +127,25 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+templates/portfolio-template-01/index.html
+templates/portfolio-template-01/assets/css/styles.css
+templates/portfolio-template-01/assets/img/jane.jpg
+templates/portfolio-template-01/assets/img/portfolio/project1.jpg
+templates/portfolio-template-01/assets/img/portfolio/project2.jpg
+templates/portfolio-template-01/assets/img/portfolio/project3.jpg
+templates/portfolio-template-01/assets/img/portfolio/project4.jpg
+templates/portfolio-template-01/assets/img/portfolio/project5.jpg
+templates/portfolio-template-01/assets/img/portfolio/project6.jpg
+templates/portfolio-template-02/index.html
+templates/portfolio-template-02/assets/css/app.css
+templates/portfolio-template-02/assets/images/student.png
+templates/portfolio-template-02/assets/images/portfolio/project1.jpg
+templates/portfolio-template-02/assets/images/portfolio/project2.jpg
+templates/portfolio-template-02/assets/images/portfolio/project3.jpg
+templates/portfolio-template-02/assets/images/portfolio/project4.jpg
+templates/portfolio-template-02/assets/images/portfolio/project5.jpg
+templates/portfolio-template-02/assets/images/portfolio/project6.jpg
+templates/portfolio-template-02/assets/js/app.js
+templates/portfolio-template-03/index.html
+templates/portfolio-template-03/assets/css/app.css
+templates/portfolio-template-03/assets/images/placeholder.png
